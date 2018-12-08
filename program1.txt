@@ -1,0 +1,71 @@
+Dakota Wilson
+
+
+Purchase amount       $   100.00
+State sales tax       $     5.00
+City sales tax        $     3.25
+                      -----------
+Total sales amount    $   108.25
+
+
+Purchase amount       $     4.23
+State sales tax       $     0.21
+City sales tax        $     0.14
+                      -----------
+Total sales amount    $     4.58
+
+
+Purchase amount       $  9064.98
+State sales tax       $   453.25
+City sales tax        $   294.61
+                      -----------
+Total sales amount    $  9812.84
+
+
+Purchase amount       $    75.00
+State sales tax       $     3.75
+City sales tax        $     2.44
+                      -----------
+Total sales amount    $    81.19
+
+
+Purchase amount       $ 10000.00
+State sales tax       $   500.00
+City sales tax        $   325.00
+                      -----------
+Total sales amount    $ 10825.00
+
+
+Purchase amount       $    25.25
+State sales tax       $     1.26
+City sales tax        $     0.82
+                      -----------
+Total sales amount    $    27.33
+
+
+Purchase amount       $  1456.90
+State sales tax       $    72.85
+City sales tax        $    47.35
+                      -----------
+Total sales amount    $  1577.09
+
+
+Purchase amount       $     0.99
+State sales tax       $     0.05
+City sales tax        $     0.03
+                      -----------
+Total sales amount    $     1.07
+
+
+Purchase amount       $  9030.02
+State sales tax       $   451.50
+City sales tax        $   293.48
+                      -----------
+Total sales amount    $  9775.00
+
+
+Purchase amount       $ 45623.00
+State sales tax       $  2281.15
+City sales tax        $  1482.75
+                      -----------
+Total sales amount    $ 49386.90
